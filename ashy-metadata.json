@@ -1,6 +1,6 @@
 {
-  "name": "ASHY",
+  "name": "Ashy",
   "symbol": "$ASHY",
-  "description": "The meme coin that embraces the crust.",
-  "image": "https://imgur.com/cqycUnQ" 
+  "uri": "https://raw.githubusercontent.com/dreamwithnova/ashy/main/ashy-metadata.json",
+  "uriHash": "hash-of-uri"
 }
